@@ -1,6 +1,6 @@
 ﻿' Program:      College Registration Costs
-' Developer:    Will (Hain Wan) Setow
-' Date:         November 13, 2015
+' Developer:    Diana Betances
+' Date:         August 16, 2017
 ' Purpose:      This program calculates the registration costs for a college
 '               student. It also records the costs in a text file.
 
